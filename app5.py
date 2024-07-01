@@ -189,3 +189,11 @@ st.sidebar.markdown("""
 
 - **Sección de ayuda:** Proporciona información sobre cómo utilizar la aplicación y qué funcionalidades están disponibles.
 """)
+
+# Aviso de derechos de autor
+st.sidebar.markdown("""
+    ---
+    © 2024. Todos los derechos reservados.
+    Creado por jahoperi.
+""")
+
